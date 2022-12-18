@@ -1,0 +1,34 @@
+Algoritmo Ejercicio4
+	Definir a,b,c,d Como Entero
+	Escribir "Ingrese 4 numeros"
+	leer a,b,c,d
+	Si a > b Entonces
+		si a > c Entonces
+			si a > d Entonces
+				Escribir "El mayor es:",a
+			sino 
+				escribir "El mayor es:",d
+			FinSi
+			si c > d Entonces
+				Escribir "El mayor es:",c
+			sino 
+				Escribir "El mayor es:",d
+			FinSi
+		FinSi
+	SiNo
+		si b > c Entonces
+			si b > d Entonces
+				Escribir "El mayor es:",b
+			sino
+				Escribir "El mayor es:",d
+			FinSi
+		SiNo
+			si c > d Entonces
+				Escribir "El mayor es:",c
+			SiNo
+				Escribir "El mayor es:",d
+			FinSi
+		FinSi
+	FinSi
+
+FinAlgoritmo
