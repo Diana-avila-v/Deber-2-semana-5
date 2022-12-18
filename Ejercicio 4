@@ -9,11 +9,6 @@ Algoritmo Ejercicio4
 			sino 
 				escribir "El mayor es:",d
 			FinSi
-			si c > d Entonces
-				Escribir "El mayor es:",c
-			sino 
-				Escribir "El mayor es:",d
-			FinSi
 		FinSi
 	SiNo
 		si b > c Entonces
@@ -30,5 +25,4 @@ Algoritmo Ejercicio4
 			FinSi
 		FinSi
 	FinSi
-
 FinAlgoritmo
