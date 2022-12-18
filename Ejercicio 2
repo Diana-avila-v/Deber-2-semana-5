@@ -1,0 +1,14 @@
+Algoritmo ejercicio2
+	Definir x,n,c Como Entero
+	x=1
+	c=0
+	Mientras x <> 0 Hacer
+		Escribir "Ingrese un numero"
+		leer n
+		c=c+1
+	si n = 0 Entonces
+			x=n
+		FinSi
+	Fin Mientras
+	Escribir "La cantidad de numero es:",c-1
+FinAlgoritmo
