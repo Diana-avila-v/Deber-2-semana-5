@@ -1,5 +1,5 @@
 Algoritmo Ejercicio6
-	Definir n,primo Como Entero
+	Definir c,n,c2 Como Entero
 	Escribir "Ingrese un numero"
 	leer n
 	c=1
