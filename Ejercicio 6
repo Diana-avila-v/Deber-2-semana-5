@@ -1,0 +1,18 @@
+Algoritmo Ejercicio6
+	Definir n,primo Como Entero
+	Escribir "Ingrese un numero"
+	leer n
+	c=1
+	c2=0
+	Mientras c <= n Hacer
+		si n mod c == 0 Entonces
+			c2 = c2 + 1
+		FinSi
+		c = c + 1
+	FinMientras
+		si c2 == 2 Entonces
+			Escribir "El numero es primo"
+		sino 
+			escribir "El numero no es primo"
+		FinSi
+FinAlgoritmo
