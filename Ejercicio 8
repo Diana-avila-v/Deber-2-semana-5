@@ -1,5 +1,5 @@
 Algoritmo Ejercicio8
-	Definir n Como Real
+	Definir n Como Entero
 	n=0
 	Escribir "Digite un numero"
 	Leer n
