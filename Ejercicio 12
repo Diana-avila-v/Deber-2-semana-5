@@ -1,0 +1,11 @@
+Algoritmo Ejercicio12
+	Definir n,c Como entero
+	Escribir "Ingrese cantidad de numeros"
+	leer n
+	c=0
+	Mientras c <= n Hacer
+      potencia= c*2
+	    c=c+1
+	Escribir "La potencia de ",c-1," es:",potencia 
+  FinMientras
+FinAlgoritmo
