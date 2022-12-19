@@ -1,0 +1,9 @@
+Algoritmo Ejercicio11
+	Definir n Como entero
+	Para n=1 Hasta 10 Con Paso 1 Hacer
+		Escribir n
+		suma = suma + n
+	
+	Fin Para
+	Escribir "La suma de los numeros del 1 al 10 es:",suma
+FinAlgoritmo
