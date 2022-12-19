@@ -1,0 +1,12 @@
+Algoritmo Ejercicio9
+	Definir producto,suma,promedio Como entero
+	Escribir "Digite 4 numeros"
+	Leer n1,n2,n3,n4
+	producto = n1*n2*n3*n4
+	suma = n1+n2+n3+n4
+	promedio= suma/4
+	
+	escribir "El producto de los numeros es: ",producto
+	Escribir "La suma de los numeros es: ",suma
+	Escribir "El promedio de los numeros es: ",promedio
+FinAlgoritmo
