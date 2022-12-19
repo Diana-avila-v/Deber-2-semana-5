@@ -1,0 +1,8 @@
+Algoritmo Ejercicio8
+	Definir n Como Real
+	n=0
+	Escribir "Digite un numero"
+	Leer n
+	n = (n*2)*25
+	escribir "El resultado es:",n
+FinAlgoritmo
