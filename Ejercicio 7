@@ -1,0 +1,10 @@
+Algoritmo Ejercicio7
+	Definir base,altura Como Real
+	Escribir "introduce la base"
+	Leer base
+	escribir "introduce altura"
+	leer altura
+	area = (base*altura)/2
+	escribir "La superficie de un triangulo es:",area
+
+FinAlgoritmo
